@@ -16,5 +16,20 @@ int main()
 		clrscr();
 	}
 	system("pause");
+
 	return 0;
 }
+
+
+
+
+
+
+
+
+
+/*
+AUTHOR
+          ABDUL SAMAD
+	  UETIAN 2018 SESSION
+*/
